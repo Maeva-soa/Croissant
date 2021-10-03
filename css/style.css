@@ -1,6 +1,6 @@
 body {
-  max-width: 800px;
-  margin: 30 auto;
+  width: 800px;
+  margin: 0 auto;
   background: #f7d6f0;
 }
 h1,
